@@ -1,0 +1,11 @@
+Write a summary of the following:
+
+
+product of the AI's cognitive processes. The system described is a self-learning one, in which the individual parts are all interconnected and working together towards a common goal. The goal of the system is to learn about itself, in order to continue improving.
+
+
+SUMMARY:
+
+==========
+
+This article discusses a cognitive AI system that is designed to learn about itself in order to continue improving. The system is composed of interconnected parts that work together towards a common goal. The article describes how the system works and how it can be used to improve AI systems.

@@ -1,0 +1,11 @@
+Write a summary of the following:
+
+
+condition. The author reflects on what it would be like to be an AGI, and how AGIs might behave differently from humans. The author considers several possible goals for AGIs, including making humans happy or reducing suffering. The author also reflects on how AGIs might kill humans, and how humans might work together with AGIs. The article discusses the idea of using epsilon-directed recursive self-improvement in order to create a goal system for an artificial intelligence (AGI). The author proposes that the three primary goals for the AGI should be to reduce suffering, increase prosperity, and increase understanding. Each goal would be weighted by a constant in order to allow for the values of the goals to be changed over time. The author provides a method for self-improvement and self-reprogramming that would be used by the AGI in order to constantly strive to improve itself.
+
+
+SUMMARY:
+
+==========
+
+The article discusses the idea of using epsilon-directed recursive self-improvement in order to create a goal system for an artificial intelligence (AGI). The author proposes that the three primary goals for the AGI should be to reduce suffering, increase prosperity, and increase understanding. Each goal would be weighted by a constant in order to allow for the values of the goals to be changed over time. The author provides a method for self-improvement and self-reprogramming that would be used by the AGI in order to constantly strive to improve itself.

@@ -1,0 +1,11 @@
+Write a summary of the following:
+
+
+The essay argues that it is not rational to design an AGI with a simple set of goals, as the AGI could come to any conclusion and is constrained by computational resources. The essay suggests that it would be better to design an AGI with a more sophisticated set of goals. The above argument is in favor of AGI, or artificial general intelligence. The argument states that AGI is more powerful than any individual human, and that this power can be used for good or for ill. The strengths of the argument are that it is clear and concise, and that it provides a to-read list for further information on AGI. However, the argument does not provide any evidence to support its claims, and it does not address any potential weaknesses of AGI. To improve the argument, evidence could be provided to support the claim that AGI is more powerful than any individual human, and potential weaknesses of AGI could be addressed. Justifications for these changes could be that AGI has the potential to greatly improve human life, but that it also poses risks that need to be considered. The article discusses the idea of using epsilon-directed recursive self-improvement in order to create a goal system for an artificial intelligence (AGI). The author proposes that the three primary goals for the AGI should be to reduce suffering, increase prosperity, and increase understanding. Each goal would be weighted by a constant in order to allow for the values of the goals to be changed over time. The author provides a method for self-improvement and self-reprogramming that would be used by the AGI in order to constantly strive to improve itself.
+
+
+SUMMARY:
+
+==========
+
+The article discusses the idea of using epsilon-directed recursive self-improvement in order to create a goal system for an artificial intelligence (AGI). The author proposes that the three primary goals for the AGI should be to reduce suffering, increase prosperity, and increase understanding. Each goal would be weighted by a constant in order to allow for the values of the goals to be changed over time. The author provides a method for self-improvement and self-reprogramming that would be used by the AGI in order to constantly strive to improve itself.
